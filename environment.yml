@@ -1,0 +1,15 @@
+name: artisan-ai
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - openai
+  - pandas
+  - pip
+  - python-dotenv
+  - streamlit
+  - pip:
+    - chromadb
+    - langchain
+    - pypdf
+    - tiktoken
