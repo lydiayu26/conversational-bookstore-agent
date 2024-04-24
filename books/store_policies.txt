@@ -1,0 +1,29 @@
+Shipping
+- Orders more than $75 will be mailed for free!
+- Orders over $20, that can be shipped in a single package, will be mailed via United Parcel Service (UPS) 3 Day Select® or United States Postal Service (USPS) Priority Mail.
+- Orders under $20 will be mailed via USPS Media Mail® (delivery, 2 to 8 business days).
+- We do not ship books outside the United States.
+
+Order Status Descriptions
+Awaiting Fulfillment:
+This is the initial state of your order. Your payment has cleared and you have been provided with an order number. Your order should not remain in this state for more than one business day.
+Awaiting Shipment:
+The books in your order have been secured and are in the process of being mailed to you. At this stage we cannot refund an order unless the book(s) are returned to us.
+
+Orders placed before 1 p.m. will enter Awaiting Shipment status the same business day. Orders placed 1 p.m. will enter Awaiting Shipment status the following business day. Your order should not remain in this state for more than one business day.
+Shipped and Partially Shipped:
+Your order been shipped, and you have been provided with your order’s tracking number(s).
+
+You will get multiple tracking numbers if your order requires multiple shipments. We make every effort to ensure your order is mailed, in a single package, and within one business day of being placed, if submitted prior to 1 p.m.
+
+It is up the customer to monitor their order’s shipping status once the tracking number has been provided. It is the customer’s responsibility to notify us if there is a substantial delay (greater than 2 weeks) in receiving their order. Orders not received, or damaged in transit, will be mailed again.
+Pending:
+We have emailed you a question about your order and are awaiting a response. For example, we may need a correction to an invalid mailing address. If an order is returned to us, we will put the order in a pending status until we hear from you.
+Refunded & Partially Refunded:
+We refund orders in the manner payment was made. Refunds made after an order has shipped (even if we have not yet updated the order’s status as “Shipped”) will require that the book to be returned to us. the customer pays the shipping costs for returned books.
+
+Refund and Returns
+- Requests for refunds during the Awaiting Fulfillment stage can be processed immediately.
+- Orders in the Pending state for more than a week will be refunded.
+- Orders in the Awaiting Shipment and Shipped may be refunded, but the books must be returned to us undamaged, in resalable condition, and shipped at your expense, before a refund can be processed.
+- No orders will be refunded seven (7) days after they have been received (based upon tracking delivery date).

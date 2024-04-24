@@ -9,7 +9,9 @@ dependencies:
   - python-dotenv
   - streamlit
   - pip:
-    - chromadb
+    - chardet
+    - faiss-cpu
     - langchain
     - pypdf
+    - streamlit-chat
     - tiktoken
